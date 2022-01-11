@@ -82,6 +82,7 @@ footer{
     }
     main{
         width: 80vw;
+        margin: 5px;
     }
     .input, .content{
         width: 20rem;
