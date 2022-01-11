@@ -44,7 +44,7 @@ button{
     font-size: large;
     font-weight: bold;
     color: var(--minion-blue);
-    margin-top: 0.5rem;
+    margin-top: 1rem;
     border-radius: 5px;
 }
 
