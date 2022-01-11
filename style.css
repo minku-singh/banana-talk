@@ -79,6 +79,7 @@ footer{
 @media screen and (max-width: 600px){
     .about{
         width: 100%;
+        margin-top: 2rem;
     }
     main{
         width: 80vw;
