@@ -73,14 +73,17 @@ footer{
     font-weight: bold;
     width: 600px;
     margin: auto;
-    padding: 1rem;
+    padding: 1.8rem;
 }
 
-@media screen and (min-width: 600px){
-    main{
-        width: 300px;
+@media screen and (max-width: 600px){
+    .about{
+        width: 100%;
     }
-    textarea{
-        width: 35em;
+    main{
+        width: 80vw;
+    }
+    .input, .content{
+        width: 20rem;
     }
 }
