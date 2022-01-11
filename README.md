@@ -1,1 +1,2 @@
-# banana-talk
+# Minion Speak
+Get your message converted into Minion Language
