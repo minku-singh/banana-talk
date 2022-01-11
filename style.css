@@ -44,7 +44,7 @@ button{
     font-size: large;
     font-weight: bold;
     color: var(--minion-blue);
-    margin-top: 1rem;
+    margin-top: 0.5rem;
     border-radius: 5px;
 }
 
@@ -87,5 +87,8 @@ footer{
     }
     .input, .content{
         width: 20rem;
+    }
+    .output{
+        margin-top: 2rem;
     }
 }
